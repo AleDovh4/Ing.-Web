@@ -1,0 +1,22 @@
+0 Inicio Sesion y Registrars
+
+1 Home (Inicio)
+2 Perfil
+3 Nosotros
+
+4 Anuncios de trabajo  
+
+    "Necesito un gasfiter"
+    Ofrezco tal cantidad de dinero
+    
+
+
+5 Servicios Ofrecidos
+    Ofrezco Servicios de Electricista
+        6 Experiencias
+        Fotos/ trabajos comprobables 
+    
+
+7 Reportar
+
+
