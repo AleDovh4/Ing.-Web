@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root {
+    --default-font: "Inter", sans-serif;
+    --heading-font: "Inter", sans-serif;
+    --nav-font: "Inter", sans-serif;
+}
+
+
+.navbar{
+    background-color: #259cb1a6;
+    height: 80px;
+    padding: 0.5rem;
+}
+
+.nav-item{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 390;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: right;
+}
+
+.navbar-brand{
+    font-weight: 500;
+    color: #35393E !important;
+    font-size: 24px;
+    transition: 0.3s color;
+}
+
+.menu-user{
+    list-style: none;
+}
+
+.user-item{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 390;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: right;
+}
+
+.user-link{
+    text-decoration: none;
+    color: white;
+
+}
+
+.user-link:hover {
+    color: #282c31 !important;
+}
+
+.login-button{
+    color: #ffffff;
+    font-size: 14px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+}
+
+.login-button:hover {
+    background-color: #00b383;
+}
+
+.offcanvas {
+    background-color: #259cb1 !important;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover, .nav-link.active {
+    color: #282c31 !important;
+}
+
+.bg{
+    background-image: url(/img/electrico.jpg);
+    background-position: center center;
+    height: 95vh; 
+}
+.textoBienvenida{
+    font-size:8vw;
+    text-align: center;
+    color: #4275F0;
+}
+
+.formColor{
+    margin: 10% 50px;
+    padding: 20px;
+    background-color: rgba(16, 120, 194, 0.5);
+    color: #fff;
+    backdrop-filter: blur(3px);
+    align-items: center;
+    display: grid;
+    justify-self: center;
+}
+.entradasForm{
+    min-width: 150px !important;
+}
+
+.contInput{
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
