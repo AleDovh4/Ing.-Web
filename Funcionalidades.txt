@@ -1,22 +1,15 @@
-0 Inicio Sesion y Registrars
+En cuanto a la idea de perfiles, tomamos en cuenta que las personas podran o no generar o ver anuncios dependiendo del rol que tengan (se planea a futuro implementar en el registro esto )
 
-1 Home (Inicio)
-2 Perfil
-3 Nosotros
+Perfil, donde los usuarios pueden ver sus datos y tener la opcion de editarlos.
 
-4 Anuncios de trabajo  
+Quienes Somos, una pestaña donde se encuentra la informacion de la pagina y ademas sus redes sociales
 
-    "Necesito un gasfiter"
-    Ofrezco tal cantidad de dinero
-    
+Inicio, es donde llegaran por primera instancia en la pagina, donde se encontraran las opciones para ingresar o crear cuenta, ademas de lo que se encuentre en el navbar
 
+Servicios Ofrecidos, en esta area es donde los usuarios podran buscar a quienes esten ofreciendo su trabajo, y ademas tendran el boton para publicar su anuncio
 
-5 Servicios Ofrecidos
-    Ofrezco Servicios de Electricista
-        6 Experiencias
-        Fotos/ trabajos comprobables 
-    
+Anuncios de trabajo, en esta area, la pagina permitira explorar las ofrecimientos de trabajos a traves de la pagina, ademas dara la oportunidad para crear un anuncio de trabajo
 
-7 Reportar
+Publicar anuncio, luego de haber apretado el boton de crear anuncio, los usuarios tendran la posibildiad de rellenar los campos para crear un anuncio en la pagina
 
-
+Informacion anuncio, se permitira ver mayor descripcion de los anuncios mediante esta funcion, la cual se encontrara al apretar en los anuncios de trabajo o servicios ofrecidos
