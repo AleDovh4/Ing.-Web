@@ -1,0 +1,5 @@
+<script src="/node_modules/jquery/dist/jquery.js" defer></script>
+        <script src="/node_modules/jquery-validation/dist/jquery.validate.min.js" defer></script>
+        <script src="/registrase.js" async></script>
+
+se deben usar esos para que funcion el script, por ello deberia de poner la misma carpeta que hay en el ejemplo que dio de EP1, la carpeta que se debe usar es node_modules, sin ella no va a operar ya que la carga se hace con ella
